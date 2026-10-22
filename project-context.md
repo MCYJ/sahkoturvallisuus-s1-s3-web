@@ -21,3 +21,9 @@
 - 2026-09-20: Local HTTP QA passed all 34 sitemap routes, eight representative assets, both Store identities, locale switching and a missing-route 404 response.
 - 2026-09-20: Created public repository `MCYJ/sahkoturvallisuus-s1-s3-web`; initial GitHub Pages workflow run `35459413340` completed successfully.
 - 2026-09-20: Production QA passed all 34 routes and eight assets at `https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/`, exact App Store ID `6813341421`, Android package `app.mcyj.examprep.glb0686`, Finnish/Swedish switching, base-path URLs, official-source links, global `keep-all`, equal badge frames and a real 404 response. Lighthouse CLI was unavailable, so no score is claimed.
+
+## 2026-10-23 — SEO technical improvements
+
+- Added dependency-free post-build SEO validation and enhancement: valid reciprocal language alternates, page-preserving language switching, source-backed Article identities/citations, BreadcrumbList, social text metadata, noindex on the utility 404, and priority for existing above-fold app imagery.
+- Removed unverified structured-data offers where present. Preserved existing official-source verification dates, visible study content, app artwork, keep-all and equal marketplace badge frames.
+- Public repository instructions were treated only as methodology; no external skill, tool, tracking, account connection, or scheduled action was installed.

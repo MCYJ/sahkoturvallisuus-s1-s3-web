@@ -1,0 +1,44 @@
+{
+  "translationGroups": [
+    [
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/fi/guides/sahkoturvallisuustutkinto-opas/",
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/sv/guides/guide-till-elsakerhetsexamen/"
+    ],
+    [
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/fi/guides/valitse-s1-s2-tai-s3/",
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/sv/guides/valj-s1-s2-eller-s3/"
+    ],
+    [
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/fi/guides/tutkinnon-rakenne-ja-hyvaksyminen/",
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/sv/guides/struktur-och-godkant-resultat/"
+    ],
+    [
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/fi/guides/etentti-osto-ja-suoritus/",
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/sv/guides/kop-och-genomfor-etentti/"
+    ],
+    [
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/fi/guides/uusintayritykset-ja-viikon-karenssi/",
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/sv/guides/omprov-och-en-veckas-karens/"
+    ],
+    [
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/fi/guides/s1-opiskelustrategia/",
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/sv/guides/studiestrategi-for-s1/"
+    ],
+    [
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/fi/guides/s2-opiskelustrategia/",
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/sv/guides/studiestrategi-for-s2/"
+    ],
+    [
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/fi/guides/s3-opiskelustrategia/",
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/sv/guides/studiestrategi-for-s3/"
+    ],
+    [
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/fi/guides/saadokset-ja-materiaalit/",
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/sv/guides/bestammelser-och-material/"
+    ],
+    [
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/fi/guides/tutkintopaivan-tarkistuslista/",
+      "https://mcyj.github.io/sahkoturvallisuus-s1-s3-web/sv/guides/checklista-for-provdagen/"
+    ]
+  ]
+}
